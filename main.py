@@ -4,6 +4,7 @@ kitob1 = Kitob("Ikki eshik orasi", "O'tkir Hoshimov")
 kitob2 = Kitob("Mehrobdan Chayon", "Abdulla Qodiriy")
 kitob3 = Kitob("Shaytanat", "Tohir Malik")
 kitob4 = Kitob("O'tkan kunlar", "Abdulla Qodiriy")
+kitob5 = Kitob("Tushda kechgan umrlar", "O'tkir Hoshimov")
 kutubxona = Kutubxona()
 
 kutubxona.add_book(kitob1, 0, "0C0", 0, 0)
